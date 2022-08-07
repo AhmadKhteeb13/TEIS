@@ -1,0 +1,38 @@
+[
+  {
+    "id" : 0,
+    "plot" : "testy",
+    "link" : "https://ar.wikipedia.org/wiki/%D9%84%D9%8A%D9%81#%D8%A3%D9%84%D9%8A%D8%A7%D9%81_%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%AC",
+    "image" : "assets/images/1.png"
+  },
+  {
+    "id" : 1,
+    "plot" : "testy",
+    "link" : "https://ar.wikipedia.org/wiki/%D8%A5%D9%86%D9%87%D8%A7%D8%A1_%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%AC",
+    "image" : "assets/images/2.png"
+  },
+  {
+    "id" : 2,
+    "plot" : "testy",
+    "link" : "https://ar.wikipedia.org/wiki/%D9%85%D9%86%D8%B3%D8%AC",
+    "image" : "assets/images/3.png"
+  },
+  {
+    "id" : 3,
+    "plot" : "testy",
+    "link" : "https://ar.wikipedia.org/wiki/%D8%AE%D9%8A%D8%B7",
+    "image" : "assets/images/4.png"
+  },
+  {
+    "id" : 4,
+    "plot" : "testy",
+    "link" : "https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A7%D9%84%D8%BA%D8%B2%D9%84_%D9%88%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D9%83%D8%A9_%D9%81%D9%8A_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+    "image" : "assets/images/5.png"
+  },
+  {
+    "id" : 5,
+    "plot" : "testy",
+    "link" : "https://www.britannica.com/topic/textile/Conversion-to-yarn#ref15724",
+    "image" : "assets/images/6.png"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id" : 0,
+    "plot" : "Textile Reference Book for Weaving",
+    "link" : "https://www.pdfdrive.com/textile-reference-book-for-weaving-e40269952.html",
+    "image" : "assets/images/1.png"
+  },
+  {
+    "id" : 1,
+    "plot" : "Physico-chemical Aspects of Textile Coloration",
+    "link" : "https://www.pdfdrive.com/physico-chemical-aspects-of-textile-coloration-e167025174.html",
+    "image" : "assets/images/2.png"
+  },
+  {
+    "id" : 2,
+    "plot" : "Textile Processing with Enzymes",
+    "link" : "https://www.pdfdrive.com/textile-processing-with-enzymes-e164902648.html",
+    "image" : "assets/images/3.png"
+  },
+  {
+    "id" : 3,
+    "plot" : "dyeing and chemical technology of textile fibres",
+    "link" : "https://www.pdfdrive.com/dyeing-and-chemical-technology-of-textile-fibres-e123420830.html",
+    "image" : "assets/images/4.png"
+  },
+  {
+    "id" : 4,
+    "plot" : "Natural dyes for textiles : sources, chemistry and applications",
+    "link" : "https://www.pdfdrive.com/natural-dyes-for-textiles-sources-chemistry-and-applications-e158205720.html",
+    "image" : "assets/images/5.png"
+  },
+  {
+    "id" : 5,
+    "plot" : "Textile mechanisms in spinning and weaving machines",
+    "link" : "https://www.pdfdrive.com/textile-mechanisms-in-spinning-and-weaving-machines-e157966474.html",
+    "image" : "assets/images/6.png"
+  },
+  {
+    "id" : 6,
+    "plot" : "SPINNING FOCUS: Spinning Innovations Continue",
+    "link" : "https://www.textileworld.com/textile-world/features/2021/04/spinning-focus-spinning-innovations-continue/",
+    "image" : "assets/images/7.png"
+  },
+  {
+    "id" : 7,
+    "plot" : "The Complete Technology Book on Textile Spinning, Weaving",
+    "link" : "https://www.niir.org/books/book/complete-technology-book-on-textile-spinning-weaving-finishing-printing-3rd-revised-edition-niir-board-consultants-engineers/isbn-9788178331638/zb,,6b,a,0,0,a/index.html",
+    "image" : "assets/images/8.png"
+  },
+  {
+    "id" : 8,
+    "plot" : "The Complete Technology Book on Textile Processing with Effluent Treatment",
+    "link" : "https://www.niir.org/books/book/complete-technology-book-on-textile-processing-with-effluent-treatment/isbn-8178330504/zb,,6c,a,0,0,a/index.html",
+    "image" : "assets/images/9.png"
+  },
+  {
+    "id" : 9,
+    "plot" : "Why am I studying textile engineering?",
+    "link" : "https://www.quora.com/Why-am-I-studying-textile-engineering",
+    "image" : "assets/images/10.png"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id" : 0,
+    "plot" : "testy",
+    "link" : "https://ar.wikipedia.org/wiki/%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1_%D8%B9%D8%B6%D9%88%D9%8A%D8%A9",
+    "image" : "assets/images/1.png"
+  },
+  {
+    "id" : 1,
+    "plot" : "testy",
+    "link" : "https://www.marefa.org/%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1_%D8%B9%D8%B6%D9%88%D9%8A%D8%A9",
+    "image" : "assets/images/2.png"
+  }
+]
